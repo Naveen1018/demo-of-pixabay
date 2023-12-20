@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://cdn.pixabay.com/index/2023/12/15/03-57-51-868_1920x550.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+    font-family: Open Sans,system-ui;
+    color: white;
+    font-weight: 800;
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin-top: 150px;
+}
+
+table{
+    margin-top: 170px;
+}
